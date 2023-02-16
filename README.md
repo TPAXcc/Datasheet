@@ -1,5 +1,5 @@
 # Datasheets / 芯片资料
-个人收集一些的难以通过正常途径找到的国产芯片数据表 / Personally collect some Chinese chip datasheets that are difficult to find through normal channels
+个人收集一些的难以通过正常途径找到的国产芯片数据表 / Personally collect some Chinese chip datasheets that are difficult to find through normal ways
 # List / 列表
  - Injoinic / 英集芯
    - IP2368
